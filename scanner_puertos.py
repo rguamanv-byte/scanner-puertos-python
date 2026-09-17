@@ -11,7 +11,7 @@ Descripción:
     definido por el usuario.
 
 Uso interactivo:
-    python scanner_puertos.py
+    python scanner_puertos.py 
 
 Uso directo (opcional):
     python scanner_puertos.py 127.0.0.1 1 100
@@ -20,6 +20,16 @@ AVISO: Este programa es de uso académico. Debe ejecutarse
 únicamente sobre equipos propios, máquinas virtuales o redes
 en las que se cuente con autorización expresa.
 """
+
+===============================================================
+ INTEGRANTES:
+ Genaro Arias
+ Rolando Guaman
+ Ximena Cardenas
+ Milly Castro
+ Kevin Bazurto
+ Dario Añasca
+===============================================================
 
 import socket
 import sys
